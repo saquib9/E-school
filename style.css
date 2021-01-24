@@ -1,0 +1,85 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+
+
+
+.header-bg-private{
+    background-color: #F0FFF0;
+}
+
+.header-bg-private h6{
+    padding-top: 70px;
+    color: #FD511A;
+}
+
+.header-bg-private button{
+    margin-top: 20px;
+}
+
+.container{
+    margin-bottom: 90px;
+}
+
+.rounded-pill{
+    background-color: #21B573;
+    padding-left: 15px;
+    padding-right: 15px;
+    
+}
+
+.nav-item{
+    margin: 0 15px;
+}
+
+
+#head-text{
+    font-size: 50px;
+    font-weight: 800;
+}
+.round-btn-private{
+    background-color: #21B573;
+    border-radius: 25px;
+    padding: 10px 25px;
+    text-decoration: none;
+    
+}
+
+.card1{
+    background-color: #F8FFFB;
+    border-radius: 10px;
+    padding-top: 70px;
+    padding-bottom: 50px;
+    
+}
+
+.card img{
+
+    padding-top: 25px;
+    width: 90%;
+}
+
+#highlight-1{
+    background-color: #FFFFFF;
+    box-shadow: 4px 4px 25px lightgray;
+}
+
+.keep-in-cen{
+    align-items: center;
+}
+
+.card{
+    border: none;
+    border-radius: 15px;
+    box-shadow: 4px 4px 25px lightgray;
+}
+
+.last-part a{
+    text-decoration: none;
+    color: white;
+}
+
+.last-part{
+    padding-top: 80px;
+    padding-bottom: 80px;
+}
